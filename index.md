@@ -30,9 +30,13 @@ Syntax highlighted code block
 ```
 # Games Design Project Portfolio - Step 1
 ## Pitch
+Video link
 ## Brainstorm
+Trello link or image
 ## Scrum
+Trello link or image
 ## Prototype
+Game link
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
