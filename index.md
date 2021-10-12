@@ -23,15 +23,16 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+
+
+
+[Link](url) and ![Image](src)
+```
 #Games Design Project Portfolio - Step 1#
 ##Pitch##
 ##Brainstorm##
 ##Scrum##
 ##Prototype##
-
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
