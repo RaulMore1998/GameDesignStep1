@@ -28,10 +28,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-#Games Design Project Portfolio - Step 1#
-##Pitch##
-##Brainstorm##
-##Scrum##
+# Games Design Project Portfolio - Step 1
+## Pitch
+## Brainstorm
+## Scrum
 ##Prototype##
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
