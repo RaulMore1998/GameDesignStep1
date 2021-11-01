@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # Games Design Project Portfolio - Step 1
 ## Pitch
 Video link and Slides
+https://docs.google.com/presentation/d/1UVXa_NUz6aFMJN1zN9VhdtbmkfmQVuG0YONtGY7_lVU/edit?usp=sharing
 ## Brainstorm
 Trello link or image
 ## Scrum
