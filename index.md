@@ -1,35 +1,82 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.css">
+    <link rel ="stylesheet" href="css/style.css">
+    <title>Game Design Portfolio</title>
+</head>
 
-You can use the [editor on GitHub](https://github.com/JamesJGrant/GameDesignStep1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
+    <header class="ui center aligned container">
+        <h1>Game Design Portfolio </h1>
+        <p>This is a Portfolio for Corey and Cian's Introduction to Game Design Assignment</p>
+        <br>
+         </header>
+         <main class="ui center aligned container">
+             <h1>Decimation Of Hibernia</h1>
+             <div class="ui centered cards">
+             <div class="ui card">
+                <div class="image">
+                  <img src="images/Header_brainstorming_Nov2020-01.png">
+                </div>
+                <div class="extra content">
+                  <a href="https://trello.com/b/HdBenZCl/brainstorm" target="_blank">
+                    <i class="user icon"></i>
+                    Brain Storming
+                  </a>
+                </div>
+              </div>
+              <div class="ui card">
+                <div class="image">
+                  <img src="images/scrum.png">
+                </div>
+                <div class="extra content">
+                  <a href="https://trello.com/b/IuDEBUL4/scrum" target="_blank">
+                    <i class="user icon"></i>
+                    Scrum
+                  </a>
+                </div>
+              </div>
+              <div class="ui card">
+                <div class="image">
+                  <img src="https://cdn.discordapp.com/attachments/782289925197922314/905858959729102858/unknown.png">
+                </div>
+                <div class="extra content">
+                  <a href="https://youtu.be/E64Axcq6NUI" target="_blank">
+                    <i class="user icon"></i>
+                    Video of Pitch
+                  </a>
+                </div>
+              </div>
+              <div class="ui card">
+                <div class="image">
+                  <img src="images/free-chart-icon-646-thumb.png">
+                </div>
+                <div class="extra content">
+                  <a href="https://wit-my.sharepoint.com/:x:/g/personal/20094046_wit_ie/EVQy7qCkQYBNjZsgxt9U0V0BdEun-TS86v1WI4mkctwMyg?e=pWrXMy" target="_blank">
+                    <i class="user icon"></i>
+                    Burn Down Chart
+                  </a>
+                </div>
+              </div>
+              <div class="ui card">
+                <div class="image">
+                  <img src="images/66134.png">
+                </div>
+                <div class="extra content">
+                  <a href="https://wit-my.sharepoint.com/:p:/g/personal/20094046_wit_ie/EaRvVfDm2LtFjROFfRhnwa0BxplbnZrd9pnHeEv6L63xxQ?e=YlYuHM" target="_blank">
+                    <i class="user icon"></i>
+                    Power Point Presentation
+                  </a>
+                </div>
+              </div>
+              </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-# Games Design Project Portfolio - Step 1
-## Pitch
-Video link and Slides
-https://docs.google.com/presentation/d/1UVXa_NUz6aFMJN1zN9VhdtbmkfmQVuG0YONtGY7_lVU/edit?usp=sharing
-## Brainstorm
-Trello link or image
-## Scrum
-Trello link or image
-## Prototype
-Game link
-
-### Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-```markdown
-Syntax highlighted code block
-# Header1
-## Header 2
-### Header 3
-- Bulleted
-- List
-1. Numbered
-2. List
-**Bold** and _Italic_ and `Code` text
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/E64Axcq6NUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--              <img src="https://thumbs.dreamstime.com/b/vector-cartoon-illustration-sick-computer-monitor-mascot-sick-computer-137350630.jpg" class="ui centered medium image"> -->
+            </main>
+            
+            <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+</body>
+</html>
